@@ -17,7 +17,7 @@ import android.widget.Scroller;
 import com.mobilephonesensor.R;
 
 /**
- * Created by heng on 16-4-19.
+ * Created by lw on 16-4-19.
  */
 public class DragLayout extends ViewGroup {
 

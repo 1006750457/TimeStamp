@@ -45,6 +45,5 @@ dependencies {
     compile rootProject.ext.libRxJava
     compile rootProject.ext.libDagger
     compile rootProject.ext.libDaggerCompiler
-    compile rootProject.ext.libNineoldandroids
     compile rootProject.ext.libOkHttpLoggingInterceptor
 }
